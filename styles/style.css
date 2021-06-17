@@ -110,6 +110,15 @@ button {
 
 .article {
   margin-bottom: 2em;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around ;
+  border-style: solid ;
+  border-width: 0.25px;
+  border-colour: grey;
+  padding: 30px;
+
 }
 
 .article__image {
@@ -141,6 +150,15 @@ button {
 
 .article__read-more:last-child {
   margin-bottom: 0;
+}
+
+
+/* .LEARN-MORE CSS CODE NOT WORKING? */
+
+.learn-more {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
 }
 
 /* Footer */
