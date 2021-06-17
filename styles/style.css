@@ -37,7 +37,18 @@ button {
 
 /* Buttons */
 
-/* INSERT BUTTON STYLES HERE */
+button {
+  background-color:#c05326;
+  color: white;
+  border-radius: 6px;
+  border-width: 0px;
+  height: 40px;
+}
+
+.volunteer {
+  background-color: white;
+  color:#c05326;
+}
 
 /* Alert */
 
