@@ -67,7 +67,7 @@ button {
 /* Jumbotron */
 
 .jumbotron {
-  background-image: url("../images/header.jpg");
+  background-image: url("https://raw.githubusercontent.com/CodeYourFuture/bikes-for-refugees/master/images/header-bike.jpg");
   border-radius: 0;
   color: #fff;
 }
